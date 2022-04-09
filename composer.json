@@ -16,7 +16,6 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^5.6 || ^7.0",
         "ext-ldap": "*"
     },
     "require-dev": {
